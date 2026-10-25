@@ -7,7 +7,7 @@ import plotly.express as px
 from datetime import datetime
 
 from auth import login
-import database
+# import database
 
 
 # LOGIN
