@@ -253,7 +253,6 @@ elif pagina == "🗑️ Eliminar":
                 producto
             ).execute()
 
-            conn.commit()
 
             st.success(
                 "Producto eliminado"
